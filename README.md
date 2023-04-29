@@ -1,2 +1,6 @@
 # bach-s_operating_room
-Scrum
+
+### Áp dụng scrum vào dự án cá nhân
+
+### Rule
+
