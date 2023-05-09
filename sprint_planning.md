@@ -1,3 +1,15 @@
+# Sprint Planning 2 (09/05 - 21/05)
+
+## Sprint Goal
+
+1. Hoàn thành tính năng chọn giờ và test hành vi
+2. chạy thử cho 1 cặp tiền DOT/USDT
+
+## Sprint Note
+1. Có ngày lễ dài 30-4 và 1-5 trong sprint nên phải sắp xếp thời gian để hoàn thành goal trước ngày 5/5
+
+____________________________________________________
+
 # Sprint Planning 1 (04/23)
 
 ## Sprint Goal
