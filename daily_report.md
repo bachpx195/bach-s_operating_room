@@ -1,4 +1,4 @@
-### 19/05/2023
+### 20/05/2023
 - Làm tính năng chọn giờ cho backtest tool
   * Ghép api vào FE
 
