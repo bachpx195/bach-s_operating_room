@@ -1,3 +1,18 @@
+# Sprint Planning 3 (22/05 - 04/06)
+
+## Sprint Goal
+
+1. Test và fix bug backtest tool
+2. Viết kế hoạch giao dịch của tháng 6.
+3. Chạy thử backtest tool với các tháng 6 năm trước.
+4. Chạy thử backtest tool để kiểm tra giả thiết giao dịch vào buổi sáng https://github.com/bachpx195/the_big_trade/issues/15
+5. Chỉnh sửa và áp dụng lại quy trình viết plan giao dịch và nhật kí mỗi ngày trên github
+
+## Sprint Note
+* Có kì nghỉ dài 26,27,28 tháng 5.
+* Viết daily report mỗi ngày chi tiết và đầy đủ hơn.
+* Ưu tiên hoàn thành goal số 2 trước tháng 6
+
 # Sprint Planning 2 (09/05 - 21/05)
 
 ## Sprint Goal
