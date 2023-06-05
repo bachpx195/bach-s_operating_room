@@ -1,3 +1,6 @@
+### 05/06/2023
+- Thống kê quá khứ của các tháng 6 = streamlit https://github.com/bachpx195/the_big_trade/issues/19
+
 ### 28/05/223
 - Thống kê quá khứ của các tháng 6 = streamlit https://github.com/bachpx195/the_big_trade/issues/19
 
