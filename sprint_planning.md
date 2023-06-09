@@ -2,10 +2,10 @@
 
 ## Sprint Goal
 
-1. Viết kế hoạch giao dịch của tháng 6.
-2. Chạy thử backtest tool với các tháng 6 năm trước.
+1. Viết kế hoạch giao dịch của tháng 6. (done)
+2. Chạy thử backtest tool với các tháng 6 năm trước. 
 3. Chạy thử backtest tool để kiểm tra giả thiết giao dịch vào buổi sáng https://github.com/bachpx195/the_big_trade/issues/15
-4. Chỉnh sửa và áp dụng lại quy trình viết plan giao dịch và nhật kí mỗi ngày trên github
+4. Chỉnh sửa và áp dụng lại quy trình viết plan giao dịch và nhật kí mỗi ngày trên github (done)
 
 ## Sprint Note
 Tập chung
