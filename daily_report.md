@@ -1,3 +1,6 @@
+### 09/06/2023
+- Ghi log khi gửi request lên Binance
+
 ### 07/06/2023
 - Thống kê quá khứ của các tháng 6 = streamlit https://github.com/bachpx195/the_big_trade/issues/19
 
