@@ -1,3 +1,7 @@
+### 17/06/2023
+- Thêm màn hình 1h, 1d trên backtest tool
+- Thêm nút back
+
 ### 09/06/2023
 - Ghi log khi gửi request lên Binance
 
