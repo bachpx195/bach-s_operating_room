@@ -1,3 +1,15 @@
+# Sprint Planning 5 (14/08 - 28/08)
+
+## Sprint Goal
+1. Hoàn thành backtest tool
+- design màn hình
+- chạy thử
+
+2. Xây dựng video dự đoán dự trên backtest tool
+
+## Sprint Note
+- Mỗi buổi tối cần làm việc ít nhất 2h
+
 # Sprint Planning 4 (05/06 - 18/06)
 
 ## Sprint Goal
