@@ -1,3 +1,22 @@
+# Sprint Planning 6 (29/10 - 12/11)
+
+## Sprint Goal
+
+1. Khởi động lại các dự án đang chạy
+  * bach-s_trading_room
+  * bach-s_training_room
+  * bach-s_trading_dashboard
+
+2. Hoàn thành dashboard đầu tiên và chạy thử cho LTC
+
+3. Lên kế hoạch cho tháng 11 (deadline 5/11)
+
+4. Viết lại quy trình hoàn chỉnh (từ nhật kí đến review) cho giao dịch theo tuần.
+
+### Note
+- Tập chung 100%!!!!
+
+
 # Sprint Planning 5 (14/08 - 28/08)
 
 ## Sprint Goal
