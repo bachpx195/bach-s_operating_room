@@ -1,3 +1,14 @@
+# Sprint Planning 6 (12/11 - 26/11)
+
+## Sprint Goal
+
+1. Làm task [Ideal] Nghiên cứu sự tương quan khi Tether in thêm USDT và giá BTC + alt coin
+
+2. Làm task đánh label hành động giá
+
+3. Làm thực hiện giả lập để backtest
+### Note
+
 # Sprint Planning 6 (29/10 - 12/11)
 
 ## Sprint Goal
