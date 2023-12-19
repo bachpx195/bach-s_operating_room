@@ -1,3 +1,12 @@
+# Sprint Planning 7 (18/12 - 29/12)
+## Sprint Goal
+
+1. Tổng hơp các mẫu hình ngày trên twiter thành tệp để dễ xem lại
+
+2. Làm dashbash theo giờ
+### Note
+
+
 # Sprint Planning 6 (12/11 - 26/11)
 
 ## Sprint Goal
