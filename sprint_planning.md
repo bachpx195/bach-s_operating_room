@@ -1,3 +1,11 @@
+# Sprint Planning 8
+## Sprint Goal
+
+Khởi động lại repo https://github.com/bachpx195/the_big_trade/issues/14
+
+### Note
+
+________________________________________2023_____________________________________________
 # Sprint Planning 7 (18/12 - 29/12)
 ## Sprint Goal
 
